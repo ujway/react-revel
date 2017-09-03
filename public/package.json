@@ -1,0 +1,23 @@
+{
+  "name": "ease-desktop",
+  "productName": "Ease",
+  "version": "1.0.0",
+  "author": {
+    "name": "SatoYuji",
+    "email": "satoyu313@gmail.com"
+  },
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "private": true,
+  "devDependencies": {
+    "classnames": "^2.1.5",
+    "director": "^1.2.0",
+    "react": "^0.14.0",
+    "todomvc-app-css": "^2.0.0",
+    "todomvc-common": "^1.0.1",
+    "material-ui": "^0.13.0",
+    "react-dom": "^0.14.0",
+    "react-tap-event-plugin": "^0.2.0"
+  }
+}
